@@ -1,4 +1,4 @@
 ---
 title: "my first blog"
-date: 2021-1-24
+date: 2021-01-24
 ---
